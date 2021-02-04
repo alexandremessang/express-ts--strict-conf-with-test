@@ -1,0 +1,12 @@
+{
+    "characters": [{
+        "firstName": "Harry",
+        "lastName": "Potter",
+        "age": 11
+    },
+    {
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "age": 40
+    }]
+}
